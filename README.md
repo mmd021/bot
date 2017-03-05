@@ -22,4 +22,4 @@ chmod +x bot.sh
 ```
 # Developer!
 
-[MOHAMA:D]([Telegram](https://telegram.me/tel_d))
+[Mmd]([Telegram](https://telegram.me/tel_d))
