@@ -14,10 +14,7 @@ chmod +x bot.sh
 To install everything in one command, use:
 ```sh
 cd $HOME
-git clone https://github.com/mmd021/bot.git
 cd bot
-chmod +x bot.sh
-./bot.sh install
 ./bot.sh
 ```
 # Developer!
