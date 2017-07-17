@@ -590,7 +590,7 @@ end
 if is_sudo(msg) then
    		if matches[1]:lower() == 'add' and not redis:get('ExpireDate:'..msg.to.id) then
 			redis:set('ExpireDate:'..msg.to.id,true)
-			redis:setex('ExpireDate:'..msg.to.id, 180, true)
+			redis:setex('ExpireDate:'..msg.to.id, 999999999999999999999999999999999999999999999999999999, true)
 				if not redis:get('CheckExpire::'..msg.to.id) then
 					redis:set('CheckExpire::'..msg.to.id,true)
 				end
