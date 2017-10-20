@@ -18,4 +18,4 @@ cd bot
 ./bot.sh
 ```
 # Developer!
-[@TEL_D](https://t.me/TEL_D)
+[@mohamaddige](https://t.me/mohamaddige)
