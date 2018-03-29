@@ -69,9 +69,7 @@ function create_config( )
 		"plugins",
 		"tools",
 		"fun",
-		"info"
-		"sa",
-		"Me",
+		"info",
 		"bay"
 	},
     sudo_users = {460848425,545263863},
