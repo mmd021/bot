@@ -74,8 +74,8 @@ function create_config( )
 		"bay",
 		"del"
 	},
-    sudo_users = {460848425,545263863},
-    admins = {427580486},
+    sudo_users = {460848425,432121912},
+    admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v4.0
