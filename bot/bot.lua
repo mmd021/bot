@@ -69,7 +69,7 @@ function create_config( )
 		"plugins",
 		"tools",
 		"fun",
-		"info"
+		"info",
 		"B-baba",
 		"B-mama",
 		"mn",
